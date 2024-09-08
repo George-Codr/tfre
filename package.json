@@ -22,7 +22,7 @@
     "react-parallax-tilt": "^1.7.236",
     "react-pdf": "^9.1.0",
     "react-router-dom": "^6.26.1",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "react-transition-group": "^4.4.5",
     "react-tsparticles": "^2.12.2",
     "tsparticles": "^3.5.0",
