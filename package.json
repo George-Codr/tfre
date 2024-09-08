@@ -33,6 +33,10 @@
   "resolutions": {
   "chroma-js": "^3.0.0"
 },
+"engines": {
+  "node": "20.15.1",
+  "bun": "1.1.0"
+},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
