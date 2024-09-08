@@ -7,11 +7,11 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "axios": "^0.26.1",
+    "axios": "^1.7.7",
     "bootstrap": "^5.3.3",
     "chroma-js": "^3.0.0",
     "emailjs-com": "^3.2.0",
-    "node-modules": "^1.0.1",
+    "node-modules": "^0.0.1",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.4",
     "react-dom": "^18.3.1",
@@ -22,7 +22,7 @@
     "react-parallax-tilt": "^1.7.236",
     "react-pdf": "^9.1.0",
     "react-router-dom": "^6.26.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.0.1",
     "react-transition-group": "^4.4.5",
     "react-tsparticles": "^2.12.2",
     "tsparticles": "^3.5.0",
@@ -31,12 +31,12 @@
     "web-vitals": "^2.1.4"
   },
   "resolutions": {
-  "chroma-js": "^3.0.0"
-},
-"engines": {
-  "node": "20.15.1",
-  "bun": "1.1.0"
-},
+    "chroma-js": "^3.0.0"
+  },
+  "engines": {
+    "node": "20.15.1",
+    "bun": "1.1.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -44,7 +44,6 @@
     "eject": "react-scripts eject",
     "preinstall": "npx npm-force-resolutions"
   },
- 
   "browserslist": {
     "production": [
       ">0.2%",
