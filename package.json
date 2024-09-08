@@ -31,6 +31,7 @@
     "web-vitals": "^2.1.4"
   },
   "resolutions": {
+    "dependency-name": "^2.1.1",
     "chroma-js": "^3.0.0"
   },
   "engines": {
