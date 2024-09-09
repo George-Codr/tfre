@@ -31,7 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Demo Live Site 💙
 
- [Demo Live](https://personal-portfolio-rrk8.vercel.app/) \
+ [Demo Live](https://personal-portfolio-rrk8.vercel.app/) 
 
 
 ### `npm run eject`
