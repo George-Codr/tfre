@@ -47,14 +47,13 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={PassManager}
+              imgPath={PassGen}
               isBlog={false}
-              title="Password-Manager"
-              description="A Simple Password Manager Project to Protect and Manages Your Passwords is made with Python. 
-                           It generates secure passwords, saves them along with website and email information, and 
-                           provides a user interface for interacting with the password manager."
+              title="Password-Generator"
+              description="JavaScript generates a random password based on user-selected options (lowercase, uppercase, digits, and specials) and length. It allows copying the generated password to the clipboard. 
+              Implement a function that generates a random password using the selected character types and lengths."
 
-              ghLink="https://github.com/Sauravkr1806/Password-Manager"
+              ghLink="https://github.com/Sauravkr1806/Password-Generator"
               // demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
