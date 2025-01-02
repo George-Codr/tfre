@@ -3,10 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Part from "../../components/Part";
 import Todo from "../../assets/Projects/Todo.jpg";
-//import emotion from "../../assets/Projects/emotion.png";
+import PassGen from "../../assets/Projects/PassGen.png";
 import PassManager from "../../assets/Projects/Passmanager.png";
 import Tictactoe from "../../assets/Projects/Tictactoe.png";
-import Medical from "../../assets/Projects/Medical.jpeg";
+import Calculator from "../../assets/Projects/Calculator.png";
 import Iplprediction from "../../assets/Projects/Iplprediction.png";
 
 function Projects() {
@@ -74,11 +74,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={Medical}
+              imgPath={Calculator}
               isBlog={false}
-              title="Medicine Recommendation System"
-              description="A machine learning-based system to recommend appropriate medications for various health conditions like cardiac issues, common cold, fever, obesity, etc. Uses supervised learning approaches such as SVM, Random Forest, and Decision Trees."
-              ghLink="https://github.com/Sauravkr1806/Medicine-Recommendation-System"
+              title="JavaScript Calculator"
+              description="Build the Interactive Calculator project involves building a functional and user-friendly calculator using HTML, CSS, and JavaScript. The goal is to create a calculator application that can perform basic arithmetic operations and deliver a seamless user experience."
+              ghLink="https://github.com/Sauravkr1806/Basic-Calculator"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
