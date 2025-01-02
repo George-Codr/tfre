@@ -45,20 +45,18 @@ function Projects() {
             />
           </Col>
 
-         <Col md={4} className="project-card">
+           {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={PassGen}
               isBlog={false}
-              title="PassWord-Generator"
-              description="JavaScript generates a random password based on user-selected options (lowercase, uppercase, digits, and specials) 
-              and length. It allows copying the generated password to the clipboard. Implement a function that generates a random password 
-              using the selected character types and lengths."
+              title="Face Recognition and Emotion Detection"
+              description="JavaScript generates a random password based on user-selected options (lowercase, uppercase, digits, and specials) and length. It allows copying the generated password to the clipboard. Implement a function that generates a random password using the selected character types and lengths."
               ghLink="https://github.com/Sauravkr1806/Password-Generator"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col> 
+          </Col> */}
 
-          <Col md={4} className="project-card">
+           {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Calculator}
               isBlog={false}
@@ -69,7 +67,7 @@ function Projects() {
               ghLink="https://github.com/Sauravkr1806/Basic-Calculator"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col>
+          </Col> */}
 
           <Col md={4} className="project-card">
             <ProjectCard
