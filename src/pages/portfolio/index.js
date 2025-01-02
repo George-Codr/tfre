@@ -45,7 +45,7 @@ function Projects() {
             />
           </Col>
 
-           {/* <Col md={4} className="project-card">
+           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={PassGen}
               isBlog={false}
@@ -54,9 +54,9 @@ function Projects() {
               ghLink="https://github.com/Sauravkr1806/Password-Generator"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col> */}
+          </Col>
 
-           {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Calculator}
               isBlog={false}
@@ -67,7 +67,7 @@ function Projects() {
               ghLink="https://github.com/Sauravkr1806/Basic-Calculator"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col> */}
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
