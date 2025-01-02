@@ -1,0 +1,109 @@
+{
+  "personal_info": {
+    "name": "Saurav Kumar",
+    "phone": "+91-7903815745",
+    "roll_no": "2106090",
+    "emails": [
+      "sauravmpsg@email.com",
+      "sauravk.ug21.cs@nitp.ac.in"
+    ],
+    "degree": "Bachelor of Technology",
+    "field_of_study": "Computer Science and Engineering",
+    "institution": "National Institute Of Technology, Patna",
+    "github_profile": "GitHub Profile",
+    "linkedin_profile": "LinkedIn Profile"
+  },
+  "education": [
+    {
+      "institution": "National Institute Of Technology",
+      "duration": "2021-2025",
+      "degree": "B.Tech",
+      "field_of_study": "Computer Science And Engineering",
+      "cgpa": 6.89
+    },
+    {
+      "institution": "M.H.S College",
+      "duration": "2018-2020",
+      "board": "Bihar School Examination Board, Bihar",
+      "cgpa": 65.6
+    },
+    {
+      "institution": "Collegiate School, Patna",
+      "duration": "2017-2018",
+      "board": "Bihar School Examination Board, Bihar",
+      "cgpa": 72
+    }
+  ],
+  "technical_projects": [
+    {
+      "title": "Personal Portfolio website",
+      "completion_date": "December 2023",
+      "description": "A portfolio is a compilation of academic and professional materials.",
+      "technologies": ["HTML", "CSS", "JavaScript", "React"],
+      "role": "Front-end Developer",
+      "key_functionality": [
+        "Dynamic routing and navigation",
+        "Interactive components and animations",
+        "Responsive design and Mobile-friendliness",
+        "Third-party libraries"
+      ]
+    },
+    {
+      "title": "IPL Win Probability Predictor",
+      "completion_date": "August 2023",
+      "description": "It uses a machine learning model to predict the probability of a team winning.",
+      "technologies": ["Python", "Machine Learning", "Web Flask"],
+      "features": [
+        "Real-time Prediction",
+        "Interactive Interface",
+        "Deployment"
+      ]
+    },
+    {
+      "title": "Fitness Tracker App",
+      "completion_date": "March 2024",
+      "description": "Designed and developed a Web App that allows users to track their daily workouts.",
+      "technologies": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB"],
+      "features": [
+        "Daily Workout Tracking",
+        "Fitness Goal Setting",
+        "Progress Tracking"
+      ]
+    }
+  ],
+  "technical_skills": {
+    "languages": ["C/C++", "Java", "Python"],
+    "developer_tools": ["Visual Studio Code", "GitHub", "Sublime Text"],
+    "cloud_databases": ["SQL", "AWS", "Microsoft Azure"],
+    "soft_skills": ["Sense of Humor", "Transparency", "Self-motivation", "Kindness"],
+    "coursework": ["DSA", "OOPs", "Computer Network", "Operating System", "Machine Learning"],
+    "areas_of_interest": ["Web 3.0", "Machine Learning", "DSA"]
+  },
+  "positions_of_responsibility": [
+    {
+      "position": "Volunteer",
+      "organization": "National Service Scheme (NSS)",
+      "duration": "2021-Present"
+    }
+  ],
+  "achievements": [
+    {
+      "description": "800 plus Coding Score with 250 plus Questions Solved on GeeksForGeeks",
+      "date": "September 2023"
+    },
+    {
+      "description": "400 plus Question Solved on Codechef",
+      "date": "June 2023"
+    },
+    {
+      "description": "250 plus Question Solved on Coding-Studio",
+      "date": "September 2023"
+    }
+  ],
+  "hobbies": [
+    "Playing Cricket",
+    "Gyming",
+    "Gaming",
+    "Travelling"
+  ]
+}
