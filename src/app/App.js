@@ -7,8 +7,6 @@ import Projects from "../pages/portfolio";
 import Footer from "../components/Footer";
 import Resume from "../components/Resume/ResumeNew";
 import Contact from "../pages/contact";
-import FadeComponent from "../components/FadeComponent";
-import SlideInComponent from "../components/SlideInComponent";
 import {
   BrowserRouter as Router,
   Route,
@@ -43,8 +41,6 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} /> 
           <Route path="/contact" element={<Contact />} />
-          <FadeComponent />
-          <SlideInComponent />
         </Routes>
         <Footer />
       </div>
