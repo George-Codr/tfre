@@ -69,7 +69,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={PassManager}
               isBlog={false}
@@ -81,7 +81,7 @@ function Projects() {
               ghLink="https://github.com/Sauravkr1806/Password-Manager"
               // demoLink="https://editor.soumya-jit.tech/"
             />
-          </Col>
+          </Col> */}
 
           <Col md={4} className="project-card">
             <ProjectCard
