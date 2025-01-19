@@ -20,7 +20,10 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              something, I think…{" "} 
+              <span className="wave" role="img" aria-labelledby="wave">
+                🤷‍♂️
+                </span>
               <br />
               <br />I am fluent in classics like
               <i>
