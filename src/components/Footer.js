@@ -17,13 +17,13 @@ function Footer() {
           <h3>Designed and Developed by Saurav Kumar</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>&#169; Saurav. 2024 Portfolio Website</h3>
+          <h3>&#169; George. 2013 Portfolio Website</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Sauravkr1806"
+                href="https://github.com/WGeorgeCode"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
