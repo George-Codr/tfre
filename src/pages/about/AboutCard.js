@@ -36,7 +36,7 @@ function AboutCard() {
           <footer className="blockquote-footer">Tim Notke</footer>
         </blockquote>
         <p>
-          For more details, visit my <a href="https://github.com/Sauravkr1806" target="_blank" rel="noopener noreferrer">portfolio</a>!
+          For more details, visit my <a href="https://github.com/WGeorgeCode" target="_blank" rel="noopener noreferrer">portfolio</a>!
      </p>
       </Card.Body>
     </Card>
