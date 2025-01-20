@@ -178,6 +178,222 @@ const PopupPage = ({ isOpen, onClose }) => {
                         <span className="skills__percentage skills__js"></span>
                       </div>
                     </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">C#</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__csharp"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">C++</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__cpp"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">TypeScript</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__typescript"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">PHP</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__php"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Swift</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__swift"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Kotlin</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__kotlin"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Ruby</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__ruby"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Go</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__go"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Rust</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__rust"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">R</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__r"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Shell</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__shell"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Perl</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__perl"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Scala</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__scala"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Haskell</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__haskell"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Objective-C</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__objectivec"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">MATLAB</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__matlab"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Groovy</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__groovy"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">PowerShell</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__powershell"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Lua</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__lua"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">VBA</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__vba"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">F#</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__fsharp"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Elixir</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__elixir"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Clojure</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__clojure"></span>
+                      </div>
+                    </div>
+                    <div className="skills__data">
+                      <div className="skills__titles">
+                        <h3 className="skills__name">Erlang</h3>
+                        <span className="skills__number">60%</span>
+                      </div>
+                      <div className="skills__bar">
+                        <span className="skills__percentage skills__erlang"></span>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
