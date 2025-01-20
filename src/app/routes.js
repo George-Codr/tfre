@@ -9,7 +9,7 @@ const PopupPage = ({ isOpen, onClose }) => {
       <div className="popup-content">
         <header className="header" id="header">
           <nav className="nav container">
-            <a href="#" className="nav__logo" style={{ fontSize: 'larger' }}>Saurav Kumar</a>
+            <a href="#" className="nav__logo" style={{ fontSize: 'larger' }}>William George</a>
             <div className="nav__menu" id="nav-menu">
               <ul className="nav__list grid">
                 <li className="nav__item">
