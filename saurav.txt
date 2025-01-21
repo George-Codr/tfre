@@ -1,12 +1,6 @@
 {
   "personal_info": {
-    "name": "Saurav Kumar",
-    "phone": "+91-7903815745",
-    "roll_no": "2106090",
-    "emails": [
-      "sauravmpsg@email.com",
-      "sauravk.ug21.cs@nitp.ac.in"
-    ],
+    "name": "William George",
     "degree": "Bachelor of Technology",
     "field_of_study": "Computer Science and Engineering",
     "institution": "National Institute Of Technology, Patna",
